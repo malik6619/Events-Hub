@@ -1,4 +1,4 @@
-# Shadcn-UI Template Usage Instructions
+# Events-Hub Usage Instructions
 
 ## technology stack
 
@@ -66,3 +66,4 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
+
